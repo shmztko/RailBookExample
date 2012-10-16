@@ -1,6 +1,4 @@
 RailBookExample::Application.routes.draw do
-  #get "view/keyword"
-
   resources :fun_comments
 
   resources :reviews
